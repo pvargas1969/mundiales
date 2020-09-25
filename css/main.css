@@ -1,0 +1,18 @@
+body {
+    background: #ffffff;
+    /*fallback for old browsers*/
+    /*background: -webkit-linear-gradient(to right, #ffffff, #ffffff);*/
+    /*Chrome 10-25, Safari 5.1-6 */
+    /*background: linear-gradient(to right, #ffffff, #ffffff);        */
+    /*W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+*/
+    /*
+    background: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../img/estadio.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    */
+}
+
+img.bandera {
+    border: 1px solid #000;
+}
